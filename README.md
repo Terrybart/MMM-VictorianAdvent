@@ -2,10 +2,9 @@
 A Victorian themed Advent Calendar module for MagicMirror²
 
 MMM-VictorianAdvent
+<img width="3322" height="2268" alt="image" src="https://github.com/user-attachments/assets/a581cd2b-4014-49bf-b667-936ca19a4da9" />
 
-Screenshot
-Victorian Advent
-door3.png
+
 Features
 25 Advent doors
 One new door unlocks each day throughout December

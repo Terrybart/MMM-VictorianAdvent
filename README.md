@@ -5,7 +5,7 @@ MMM-VictorianAdvent
 
 Screenshot
 Victorian Advent
-
+door3.png
 Features
 25 Advent doors
 One new door unlocks each day throughout December

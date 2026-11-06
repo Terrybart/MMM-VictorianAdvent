@@ -3,7 +3,8 @@ A Victorian themed Advent Calendar module for MagicMirror²
 
 MMM-VictorianAdvent
 
-A Victorian themed Advent Calendar module for MagicMirror2
+Screenshot
+Victorian Advent
 
 Features
 25 Advent doors

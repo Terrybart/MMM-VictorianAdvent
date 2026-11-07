@@ -1,7 +1,7 @@
 # MMM-VictorianAdvent
 A Victorian themed Advent Calendar module for MagicMirror²
 
-<img width="4032" height="612" alt="image" src="https://github.com/user-attachments/assets/0c5c906b-6c62-43cf-b46e-3d2802a3c265" />
+![Victorian Village](images/victorian-village.png)
 
 
 
